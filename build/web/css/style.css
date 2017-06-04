@@ -1,0 +1,32 @@
+body{
+    width: 100%;
+}
+.container{
+
+    width: 1000px;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 1px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.subheader{
+    margin-left: 30%;
+}
+
+ul.qty{
+	padding:0;
+	margin:0;
+        margin-bottom: 15px;
+	list-style:none;
+}
+ul.qty li{
+   display: inline-block;
+   margin-right: 5%;
+}
+
+select{
+    width: 150px;
+}
+
